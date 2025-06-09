@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&fontColor=000000&color=gradient&text=peachLog&section=header)
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=peachLog&fontSize=70&color=gradient&stroke=b678c4)
 <div align="center">
   <br><br><br>
 
