@@ -18,11 +18,11 @@
   ### Tools
   ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-  <br>
+  <br><br>
 
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-  <br>
+  <br><br>
 
   
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=opeach2v)]([벨로그링크](https://velog.io/@opeach2v/posts))
