@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&fontColor=808080&color=gradient&text=peachLog!)
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&fontColor=000000&color=gradient&text=peachLog!)
 
 <!--
 **opeach2v/opeach2v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
