@@ -1,6 +1,6 @@
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=peachLog&fontSize=70&color=30:fff0f5,70:ffb6c1&fontColor=b0e0e6)
 <div align="center">
-  <br><br>
+  <br>
 
   ### Platforms & Languages
   ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
