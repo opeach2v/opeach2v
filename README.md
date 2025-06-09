@@ -1,4 +1,4 @@
-![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=peachLog&fontSize=70&color=10:fff0f5,30:ffb6c1,60:db7093&fontColor=b0e0e6)
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=peachLog&fontSize=70&color=30:fff0f5,70:ffb6c1&fontColor=b0e0e6)
 <div align="center">
   <br><br>
 
